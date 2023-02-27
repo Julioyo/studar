@@ -1,0 +1,54 @@
+body{
+  background-color : black;
+}
+
+nav li{
+  justify-content : space-between;
+  display: inline;
+  margin : 20px;
+  
+}
+nav ul a{
+  font-family : "Arial", sans-serif;
+  color : white;
+}
+
+.mid{
+  background-color : white;
+  margin : 0px 0px 120px;
+  height : 500px;
+}
+.mid h3{
+  background-color : white;
+  font-size : 90px;
+  text-align : center;
+  font-family : "Arial", sans-serif;
+}
+.card{
+  background-color : grey;
+  height : 190px;
+  font-family : "Arial", sans-serif;
+  text-align : center;
+  margin : 0px 50px 50px;
+  font-size : 40px;
+  border : 2px solid;
+  border-radius : 15px;
+}
+.access{
+  display : table;
+  justify-content : center;
+  margin : 50px 0;
+  appearance: none;
+  background-color: white;
+  border: 2px solid #1A1A1A;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: #3B3B3B;
+  cursor: pointer;
+  display: inline-block;
+  height : 60px;
+  width: 90%;
+  font-family : "Arial", sans-serif;
+  font-size : 20px;
+ 
+}
