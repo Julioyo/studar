@@ -24,8 +24,8 @@
 ###### Placeholder
 
 
-## Les inégrales
+## Les intégrales
 
 ##### Les intégrales sont des nombres qui n'ont que 0 après la virgule. Elles sont utiles pour une entée utilisateur avec un identifiant.
 ##### Les intégrales s'expriment comme ceci :
-###### Placeholer
+###### Placeholder
